@@ -1,2 +1,2 @@
 # personalprojects
-My Personal Project Work
+Tic Tac Toe AI
